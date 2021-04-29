@@ -1,4 +1,4 @@
-# Antrasis testas
+# Testas
 
 1. Pasidaryti projekto fork'ą, kuris sukurs projekto kopiją jūsų paskiroje;
 
