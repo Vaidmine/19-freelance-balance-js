@@ -24,3 +24,5 @@
 8. Sukurti pull-request į originalų projektą, su atliktais commit'ais.
 
 9. Pradinių duomenų (const account) redaguoti negalima.
+
+https://vaidmine.github.io/19-freelance-balance-js/
