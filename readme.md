@@ -1,5 +1,7 @@
 # Metų suvestinė / lentelė
 
+#### Užduotis: 
+
 1. Pasidaryti projekto fork'ą, kuris sukurs projekto kopiją jūsų paskiroje;
 
 2. Kiekviena sekanti užduotis turi turėti atskitą commit'ą;
